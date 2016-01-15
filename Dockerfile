@@ -2,7 +2,7 @@
 # Dockerfile PHP 5 based on Apache2 image.
 #
 
-FROM apache2:latest
+FROM mmorejon/apache2:latest
 
 MAINTAINER Manuel Morejón <manuel.morejon.85@gmail.com>
 
